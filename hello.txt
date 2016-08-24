@@ -1,2 +1,3 @@
 hello!gitHub
 Gitの操作方法について学んでいます。
+branch_aを作成し、branch_aで作業を行っています。
